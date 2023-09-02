@@ -1,6 +1,6 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
@@ -156,7 +156,6 @@ header{
 }
 
 .main{
-    
     position: absolute;
     top: 50%;
     left: 3%;
